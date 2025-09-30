@@ -1,4 +1,4 @@
-package com.ufeyrabagci.mobile_programming
+package com.ufeyrabagci.hafta1
 
 import java.lang.Math.pow
 import kotlin.reflect.typeOf
@@ -100,4 +100,3 @@ fun main() {
     }
 
 }
-

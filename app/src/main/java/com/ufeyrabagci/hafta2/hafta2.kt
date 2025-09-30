@@ -1,4 +1,4 @@
-package com.ufeyrabagci.mobile_programming
+package com.ufeyrabagci.hafta2
 
 fun main(){
     //Basit düzeyde 2 şekilde veri tipi tanımlama
@@ -92,7 +92,7 @@ fun toplama(a:Int,b:Int){
     println("Toplama isleminin sonucu = ${a+b}")
 }
 
-   // Default parametre value
+// Default parametre value
 
 fun musteri(kullanici: String="Gecici Kullanici"){
     println("Hoşgeldiniz $kullanici")
@@ -140,4 +140,3 @@ fun hesaplama(a:Int,b:Int,c:Int){
         println("Hatali secim yaptiniz")
     }
 }
-

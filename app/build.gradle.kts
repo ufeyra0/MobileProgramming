@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ufeyrabagci.mobile_programming"
+    namespace = "com.ufeyrabagci.hafta1"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.ufeyrabagci.mobile_programming"
+        applicationId = "com.ufeyrabagci.hafta1"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

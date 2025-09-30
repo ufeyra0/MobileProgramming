@@ -1,4 +1,4 @@
-package com.ufeyrabagci.mobile_programming
+package com.ufeyrabagci.hafta2
 
 import org.junit.Test
 

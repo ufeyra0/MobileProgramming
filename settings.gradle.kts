@@ -19,6 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Mobile_Programming"
+rootProject.name = "hafta1"
+include(":app")
 include(":app")
  
