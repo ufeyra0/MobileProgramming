@@ -53,6 +53,7 @@ fun main(){
 
     println("-----------------------------------------------")
 
+
     var my_list_4=mutableListOf<Int>(2,8,4,5,11,17,29,36,37,0,6,23)
     // listedeki her bir değerin karesini alan kodu yazınız.
     //yöntem 1
