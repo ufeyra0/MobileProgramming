@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Hafta6</string>
+
+    <string name="hint_username">Kullanıcı Adı</string>
+    <string name="hint_password">Şifre</string>
+    <string name="button_login">Giriş Yap</string>
+    <string name="text_register_link"><u>Üye olmak için tıklayınız</u></string>
+    <string name="login_error">Kullanıcı adı ve şifre hatalı!</string>
+    <string name="login_success">Giriş başarılı!</string>
+
+    <string name="hint_password_repeat">Şifre Tekrar</string>
+    <string name="hint_email">E-posta adresi</string>
+    <string name="text_gender">Cinsiyet:</string>
+    <string name="gender_male">Erkek</string>
+    <string name="gender_female">Kadın</string>
+    <string name="toggle_notifications">E-posta bildirimlerini kabul ediyorum</string>
+    <string name="button_save">Kaydet</string>
+    <string name="register_success">Tebrikler kayıt başarılı!</string>
+    <string name="register_redirect_message">3 saniye içinde ana sayfaya yönlendirileceksiniz</string>
+    <string name="register_error_passwords_do_not_match">Şifre uyuşmuyor!</string>
+    <string name="register_error_empty_fields">Lütfen tüm alanları doldurun.</string>
+
+    <string name="dashboard_welcome">Ana Sayfaya Hoş Geldiniz!</string>
+
+
+   <string-array name="cities_array">
+       <item>Şehir Seçiniz</item>
+       <item>Adana</item>
+       <item>Ankara</item>
+       <item>Konya</item>
+       <item>Mersin</item>
+       <item>Diyarbakır</item>
+       <item>İstanbul</item>
+
+
+   </string-array>
+
+
+
+
+</resources>
